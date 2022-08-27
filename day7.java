@@ -15,7 +15,7 @@ public class day7 {
         return false;
     }
     while(n != 0){
-        if((n % x) % 2 != 0){
+        if((n % xcd onedive) % 2 != 0){
             return false;
         }
         n /= 10;
